@@ -1,0 +1,7 @@
+'Word Count'. Returns the number of words, lines or characters within a given file / files.
+
+i.e. wc <file_name>
+
+Add '-l' for lines only
+Add '-w' for words only
+Add '-m' for characters only
